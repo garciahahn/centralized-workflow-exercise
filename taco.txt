@@ -7,5 +7,3 @@ tomatoes
 lettuce
 onion
 sweet corn
-sour cream
-salsa
